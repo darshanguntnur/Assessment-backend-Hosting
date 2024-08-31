@@ -1,0 +1,6 @@
+Assessment Application 
+ The Application is Monolithic Architecture where more than one Entity are created in one application.
+ 
+ The Application run in default port :8080
+ 
+ to create a Teacher identity manually create a data in mysql or any Database software and then login for user also
